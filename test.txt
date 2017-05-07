@@ -1,1 +1,3 @@
 Hello I'm master branch
+
+Hello I'm new branch
